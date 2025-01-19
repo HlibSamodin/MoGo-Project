@@ -1,12 +1,9 @@
 :root {
-
-    :root {
-            --brand-mint: #95E1D3;
-            --header-text: #333333;
-            --service-desc: #999999;
-            --page-bg: #FFFFFF;
-            --service-card: #F8F8F8;
-            --team-accent: #F38181;
-            --nav-highlight: #FCE38A;
-        }
+    --primary-text: #B6B6B6;
+    --primary-title: #333333;
+    --third-text: #F38181;
+    --secondary-text-title: #95E1D3;
+    --fourth-text: #333333;
+    --primary-button-color: #95E1D3;
 }
+
