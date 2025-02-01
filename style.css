@@ -1,18 +1,11 @@
 :root {   
     --primary-title: #333333;
-    --primary-title-font-family: 'Montserrat', sans-serif;
-    --primary-title-font-weight: bold;
 
     --third-text: #F38181;
 
     --secondary-text-title: #95E1D3;
-    --secondary-text-title-font-family: 'Montserrat', sans-serif;
-    --secondary-text-title-font-weight: normal;
-    --secondary-text-title-font-size: 14px;
 
     --fourth-text: #333333;
-    --fourth-text-font-family: 'Montserrat', sans-serif;
-    --fourth-text-font-weight: bold;
 
     --primary-button-color: #95E1D3;
 
@@ -24,4 +17,7 @@
     --surface-main: #fafafa;
     --secondary-text: #e0e0e0;
     --footer-bg: #2F303A;
+    --main-font: "Montserrat" , "sans-serif";
+    --second-font: "Roboto" , "sans-serif";
+    --thind-font: "Kaushan Script" , "sans-serif";
 }
